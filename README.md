@@ -21,7 +21,7 @@ The data model is for a simple chat application. It continas channels, messages 
 To run the server, run:
 
 ```
-npx jsonhost@latest
+npx apidroid@latest
 ```
 
 ## Getting the data
